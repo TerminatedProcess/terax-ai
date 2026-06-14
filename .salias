@@ -1,0 +1,3 @@
+# terax-ai project aliases (fish)
+
+alias gitupdate='git pull --rebase --autostash origin main'
